@@ -1,0 +1,2 @@
+# Mathematica
+All Mathematica scripts.
